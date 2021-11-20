@@ -4,3 +4,8 @@ print("Welcome! Please create an account:")
 
 userName = input("Please enter username: ")
 passWord = input("Please enter password: ")
+
+# Print a congratulations message and ask user to log in
+
+print("Congratulations! You have created a new account.")
+print("Please log in:")
